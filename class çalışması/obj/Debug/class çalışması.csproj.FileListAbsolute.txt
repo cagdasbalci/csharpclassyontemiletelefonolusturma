@@ -1,0 +1,10 @@
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\bin\Debug\class çalışması.exe.config
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\bin\Debug\class çalışması.exe
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\bin\Debug\class çalışması.pdb
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\obj\Debug\class çalışması.csproj.AssemblyReference.cache
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\obj\Debug\class_çalışması.Form1.resources
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\obj\Debug\class_çalışması.Properties.Resources.resources
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\obj\Debug\class çalışması.csproj.GenerateResource.cache
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\obj\Debug\class çalışması.csproj.CoreCompileInputs.cache
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\obj\Debug\class çalışması.exe
+C:\Users\ÇAĞDAŞ\OneDrive\Masaüstü\proheler\class çalışması\class çalışması\obj\Debug\class çalışması.pdb
